@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Audiowide;
+  src: url("audiowide.ttf");
+}
 body {
   background-color: dodgerblue;
 }
