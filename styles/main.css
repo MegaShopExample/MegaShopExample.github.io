@@ -26,13 +26,14 @@ h1, h2, h3, h4, h5, h6 {
 .nav li a, .dropbtn {
   display: inline-block;
   color: white;
+  padding: 14px 16px;
   text-align: center;
   text-decoration: none;
 }
 .nav li a:hover, .dropdown:hover .dropbtn {
   background-color: red;
 }
-li.dropdown {
+.nav li.dropdown {
   display: inline-block;
 }
 .dropdown-content {
