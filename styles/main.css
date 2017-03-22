@@ -63,6 +63,8 @@ div.display {
 }
 div.display div.container {
   position: relative;
+  width: 200px;
+  height: 113px;
 }
 div.display div.center {
   position: absolute;
