@@ -56,10 +56,3 @@ a {
 .dropdown:hover .dropdown-content{
   display: block;
 }
-#display {
-  border: 1px solid black;
-}
-#display img {
-  margin: auto;
-  display: block;
-}
