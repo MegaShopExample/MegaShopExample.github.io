@@ -58,8 +58,8 @@ a {
 }
 div.display {
   border: 3px solid teal;
-  min-width: 250px;
-  min-height: 200px;
+  min-width: 200px;
+  min-height: 113px;
 }
 div.display div.container {
   position: relative;
