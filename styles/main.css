@@ -70,7 +70,6 @@ div.display div.center {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1.125em;
-  display: none;
 }
 div.display div.container img {
   width: 200px;
