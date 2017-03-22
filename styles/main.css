@@ -56,3 +56,22 @@ a {
 .dropdown:hover .dropdown-content{
   display: block;
 }
+div.container {
+  position: relative;
+}
+div.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.125em;
+}
+div.display {
+  border: 3px solid teal;
+  min-width: 250px;
+  min-height: 200px;
+}
+div.display img {
+  width: 200px;
+  height: 113px;
+}
