@@ -77,3 +77,6 @@ div.display div.container img {
   width: 200px;
   height: 113px; 
 }
+figcaption {
+  text-align: center;
+}
