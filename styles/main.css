@@ -80,3 +80,10 @@ div.display div.container img {
 figcaption {
   text-align: center;
 }
+figure {
+  width: 510px;
+}
+figure img {
+  display: block;
+  margin: auto;
+}
